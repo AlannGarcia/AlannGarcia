@@ -5,11 +5,10 @@
 
 - 📫 Mi correo electrónico es **alanguillermogarcia2001@gmail.com**
 
-- 🤝 Mi LinkedIn es [https://www.linkedin.com/in/alan-garc%C3%ADa-978146200/](https://www.linkedin.com/in/alan-garc%C3%ADa-978146200/)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/_garcialan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@garcialan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alan-garc%C3%ADa-978146200/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alangarcia" height="30" width="40" /></a>
+<a href="https://instagram.com/_garcialan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_garcialan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
