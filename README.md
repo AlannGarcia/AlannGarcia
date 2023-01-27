@@ -1,7 +1,6 @@
 <h1 align="center">Hola 👋, soy Alan</h1>
 <h3 align="center">Programador FullStack de Buenos Aires, Argentina</h3>
 
-- 🔭 Mi ultimo trabajo: [climaApp con Login](https://ag-clima-app.herokuapp.com/)
 
 - 📫 Mi correo electrónico es **alanguillermogarcia2001@gmail.com**
 
